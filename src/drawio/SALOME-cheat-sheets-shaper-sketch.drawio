@@ -1,0 +1,293 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" pages="2">
+  <diagram name="Page-1" id="eKvPpAYa_UXJOAYFPq-P">
+    <mxGraphModel dx="1802" dy="1088" grid="0" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" style="locked=0;" />
+        <mxCell id="u76R0gEhRdA3YVUiywzv-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;connectable=0;allowArrows=0;resizable=0;rotatable=0;spacingTop=0;spacingLeft=20;spacingRight=20;spacingBottom=20;" value="Use the shortcut (Ctrl+4) to begin a sketch." vertex="1">
+          <mxGeometry height="150" width="350" x="450" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="9iiBLLwlAACmlD8bPBJn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1E73BE;fontSize=54;fontColor=#FFFFFF;connectable=0;allowArrows=0;rotatable=0;resizable=0;movable=0;" value="SALOME Shortcuts: Shaper" vertex="1">
+          <mxGeometry height="100" width="850" as="geometry" />
+        </mxCell>
+        <mxCell id="9iiBLLwlAACmlD8bPBJn-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;bendable=0;strokeWidth=2;movable=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="425" y="1025" as="sourcePoint" />
+            <mxPoint x="425" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9iiBLLwlAACmlD8bPBJn-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;expand=1;resizable=0;rotatable=0;allowArrows=0;movable=0;connectable=0;" value="Version 1.0.0 | Updated for SALOME 9.16.0" vertex="1">
+          <mxGeometry height="25" width="350" x="50" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="9iiBLLwlAACmlD8bPBJn-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=14;expand=1;resizable=0;rotatable=0;allowArrows=0;movable=0;connectable=0;" value="© 2026 EvokeMadness CC BY-SA 4.0" vertex="1">
+          <mxGeometry height="25" width="350" x="450" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="9iiBLLwlAACmlD8bPBJn-11" parent="1" style="swimlane;whiteSpace=wrap;html=1;connectable=0;allowArrows=0;container=0;dropTarget=0;expand=1;rotatable=0;fillColor=#B3B3B3;fontStyle=0;fontSize=18;fontColor=#000000;startSize=25;" value="Tip!" vertex="1">
+          <mxGeometry height="175" width="350" x="450" y="825" as="geometry" />
+        </mxCell>
+        <mxCell id="9iiBLLwlAACmlD8bPBJn-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=72;fontStyle=1;connectable=0;allowArrows=0;editable=0;movable=1;resizable=0;rotatable=0;deletable=1;locked=0;fontColor=#B3B3B3;" value="!" vertex="1">
+          <mxGeometry height="75" width="50" x="750" y="925" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-4" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Arc (Ctrl+Shift+C&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-5" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="B-spline (Ctrl+Shift+B&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-6" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Circle (Ctrl+Shift+O&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-9" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Curve fitting (Ctrl+Shift+:&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-12" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Ellipse (Ctrl+Shift+E&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-13" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Elliptic arc" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-15" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Fillet (Ctrl+Shift+F&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-19" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Intersection (Ctrl+Shift+X&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-21" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Line (Ctrl+Shift+_&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-27" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Periodic B-spline" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-29" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Point (Ctrl+Shift+*&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-30" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Projection (Ctrl+Shift+P&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-32" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Rectangle (Ctrl+Shift+#&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-33" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Split" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-35" parent="1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Trim" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;connectable=0;allowArrows=0;resizable=0;rotatable=0;fillColor=#B3B3B3;fontSize=18;align=left;spacingLeft=25;spacingRight=25;fontColor=#000000;" value="Linear Geometry" vertex="1">
+          <mxGeometry height="25" width="350" x="50" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Yq-d8EEebo79y-RojsyS-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;connectable=0;allowArrows=0;resizable=0;rotatable=0;fillColor=#B3B3B3;fontSize=18;align=left;spacingLeft=25;spacingRight=25;fontColor=#000000;" value="Conical Geometry" vertex="1">
+          <mxGeometry height="25" width="350" x="50" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Yq-d8EEebo79y-RojsyS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;connectable=0;allowArrows=0;resizable=0;rotatable=0;fillColor=#B3B3B3;fontSize=18;align=left;spacingLeft=25;spacingRight=25;fontColor=#000000;" value="Parametric Curves" vertex="1">
+          <mxGeometry height="25" width="350" x="450" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="Yq-d8EEebo79y-RojsyS-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;connectable=0;allowArrows=0;resizable=0;rotatable=0;fillColor=#B3B3B3;fontSize=18;align=left;spacingLeft=25;spacingRight=25;fontColor=#000000;" value="Segmentation" vertex="1">
+          <mxGeometry height="25" width="350" x="450" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Yq-d8EEebo79y-RojsyS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;connectable=0;allowArrows=0;resizable=0;rotatable=0;fillColor=#B3B3B3;fontSize=18;align=left;spacingLeft=25;spacingRight=25;fontColor=#000000;" value="Projection" vertex="1">
+          <mxGeometry height="25" width="350" x="450" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-40" parent="0" style="locked=0;" value="Icons" />
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-44" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/arc.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-45" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/bspline.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-46" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/circle.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-49" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/curvefitting.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-51" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/ellipse.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-52" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/elliptic_arc.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-54" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/fillet.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-58" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/intersection.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-60" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/line.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-66" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/bspline_p.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-68" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/point.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-69" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/projection.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-71" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/PythonAddons/macros/rectangle/icons/rectangle.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-72" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/split.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="z0D_uRX0EWpuioBM8Pb6-74" parent="z0D_uRX0EWpuioBM8Pb6-40" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/trim.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="525" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-2" id="KvP21kLnNl8kX6qKGEId">
+    <mxGraphModel dx="1802" dy="1088" grid="0" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-0" />
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-1" parent="5vGNYAj8I7-upAAR8vAw-0" style="locked=0;" />
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-4" parent="5vGNYAj8I7-upAAR8vAw-1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#1E73BE;fontSize=54;fontColor=#FFFFFF;connectable=0;allowArrows=0;rotatable=0;resizable=0;movable=0;" value="SALOME Shortcuts: Shaper" vertex="1">
+          <mxGeometry height="100" width="850" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-5" edge="1" parent="5vGNYAj8I7-upAAR8vAw-1" style="endArrow=none;html=1;rounded=0;bendable=0;strokeWidth=2;movable=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="425" y="1025" as="sourcePoint" />
+            <mxPoint x="425" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-6" parent="5vGNYAj8I7-upAAR8vAw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;expand=1;resizable=0;rotatable=0;allowArrows=0;movable=0;connectable=0;" value="Version 1.0.0 | Updated for SALOME 9.16.0" vertex="1">
+          <mxGeometry height="25" width="350" x="50" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-7" parent="5vGNYAj8I7-upAAR8vAw-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontSize=14;expand=1;resizable=0;rotatable=0;allowArrows=0;movable=0;connectable=0;" value="© 2026 EvokeMadness CC BY-SA 4.0" vertex="1">
+          <mxGeometry height="25" width="350" x="450" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-20" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Angle (Ctrl+Shift+A&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="825" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-22" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Angular copy" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-26" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Coincident (Ctrl+Shift+J&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-27" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Collinear (Ctrl+Shift+&quot;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-29" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Distance (Ctrl+Shift+D&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-32" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Equal (Ctrl+Shift+@&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-34" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Fixed (Ctrl+Shift+&amp;gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-35" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Horizontal (Ctrl+Shift+Right&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-36" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Horizontal Distance (Ctrl+Shift+Left&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-38" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Length (Ctrl+Shift+L&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-40" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Linear copy" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-41" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Middle point (Ctrl+Shift+M&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-42" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Mirror copy (Ctrl+Shift+%&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-43" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Offset" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-44" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Parallel (Ctrl+Shift+!&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-46" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Perpendicular (Ctrl+Shift+^&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-49" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Radius (Ctrl+Shift+R&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-52" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Tangent (Ctrl+Shift+T&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-54" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Vertical (Ctrl+Shift+Up&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-55" parent="5vGNYAj8I7-upAAR8vAw-1" style="html=1;aspect=fixed;spacingLeft=12.5;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=18;connectable=0;allowArrows=0;resizable=0;rotatable=0;strokeColor=none;" value="Vertical Distance (Ctrl+Shift+Down&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-61" parent="5vGNYAj8I7-upAAR8vAw-1" style="rounded=0;whiteSpace=wrap;html=1;connectable=0;allowArrows=0;resizable=0;rotatable=0;fillColor=#B3B3B3;fontSize=18;align=left;spacingLeft=25;spacingRight=25;fontColor=#000000;" value="Replication" vertex="1">
+          <mxGeometry height="25" width="350" x="50" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-62" parent="5vGNYAj8I7-upAAR8vAw-1" style="rounded=0;whiteSpace=wrap;html=1;connectable=0;allowArrows=0;resizable=0;rotatable=0;fillColor=#B3B3B3;fontSize=18;align=left;spacingLeft=25;spacingRight=25;fontColor=#000000;" value="Dimensional Constraints" vertex="1">
+          <mxGeometry height="25" width="350" x="50" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-63" parent="5vGNYAj8I7-upAAR8vAw-1" style="rounded=0;whiteSpace=wrap;html=1;connectable=0;allowArrows=0;resizable=0;rotatable=0;fillColor=#B3B3B3;fontSize=18;align=left;spacingLeft=25;spacingRight=25;fontColor=#000000;" value="Geometrical Contraints" vertex="1">
+          <mxGeometry height="25" width="350" x="450" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-64" parent="5vGNYAj8I7-upAAR8vAw-0" style="locked=0;" value="Icons" />
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-65" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/angle_constr.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="825" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-66" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/rotate.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-70" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/coincedence.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-71" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/collinear.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-73" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/distance.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-76" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/equal.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-78" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/fixed.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-79" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/horisontal.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-80" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/distance_h.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-82" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/length.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-84" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/translate.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-85" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/middlepoint.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-86" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/mirror.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-87" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/offset.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-88" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/parallel.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-90" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/perpendicular.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-93" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/radius_constr.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-96" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/tangent.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-98" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/vertical.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="450" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5vGNYAj8I7-upAAR8vAw-99" parent="5vGNYAj8I7-upAAR8vAw-64" style="shape=image;aspect=fixed;image=https://github.com/SalomePlatform/shaper/blob/master/src/SketchPlugin/icons/distance_v.png?raw=true;connectable=0;allowArrows=0;resizable=0;rotatable=0;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="50" y="675" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
